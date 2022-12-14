@@ -1,1 +1,1 @@
-### Skillbox educational project
+### Skillfactory educational project
